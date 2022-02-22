@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of Mr. York's suite in a dialogue between Mr. York and his post.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24561</idno>
+            <idno type="STC">Wing A216</idno>
+            <idno type="STC">ESTC R22488</idno>
+            <idno type="EEBO-CITATION">12489370</idno>
+            <idno type="OCLC">ocm 12489370</idno>
+            <idno type="VID">62332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 302:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of Mr. York's suite in a dialogue between Mr. York and his post.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Baily, and are sold by the hawkers of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Satire on the Duke of York (James II) and the Exclusion Bill.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Anecdotes</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:62332:1"/>
+            <pb n="1" facs="tcp:62332:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF Mr. YORK's Suite; IN A DIALOGUE BETWEEN <hi>Mr. York, and his Poſt.</hi>
+            </head>
+            <sp>
+               <speaker>York,</speaker>
+               <p>HOw went my <hi>Suit, Poſt-Man?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Poſt-Man,</speaker>
+               <p>Troth for your Comfort, 'tis at a Stand, and defer'd till next Term; tho it went once againſt you, as if the <hi>Devil</hi> drove it.</p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>By what Means? I am ſure I had Right on my ſide.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>By what Means ſay you? <hi>Means,</hi> that would baffle you out of your <hi>Right</hi> and Chriſtian Name; <hi>Means,</hi> that would perſwade a <hi>Man,</hi> he knew not who was his own <hi>Wife.</hi> Did you ever meet with ſuch a Pack of <hi>Whip<g ref="char:EOLhyphen"/>ſters</hi> as theſe?</p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>Not I faith: Prithee make me Underſtand 'em.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Why? There are a ſort of <hi>Blades</hi> that crow'd in Helter Skelter a top of one anothers Shoulders, in <hi>Nomine Domine Regis,</hi> and <hi>Swear</hi> themſelves to the Devil, I think at a greater Rate than <hi>L'Eſtrange's</hi> Boy; who Swore he ſaw it Rain <hi>Butter'd-Turneps.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>They are a <hi>Dangerous</hi> ſort of Fellows indeed, that never Hum not Haw, but go arights to the Devil.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Ay, to the Devil ſure enough, for I knew one of 'em about half a Year a go ſet out <hi>Post</hi> for Hell, with his Mouth ſtuff't full of <hi>Oaths,</hi> and there is not a bit of him come back yet, as I know; or any <hi>Depoſitions</hi> concerning him.</p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>That was Captain <hi>William</hi>—What ſhall I call him?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>The very ſame. Nay, there's one at this very preſent, has all his <hi>Accoutrements</hi> ready for the ſame <hi>Jurney,</hi> only he lack's a <hi>Word</hi> to paſs Squire <hi>Ketches</hi> Centry, and then to the Devil Whip and Spur.</p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>Poh, Is that all, I'le get that done for him?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>In the mean while, I'le put him into a Prayer Dyet, that when once he is a Horſe-back, he mayn't trouble us, from <hi>Ten</hi> a Clock to <hi>Twelve,</hi> with his for <hi>Chriſt's-Oake,</hi> and his <hi>God be with me's.</hi>
+               </p>
+            </sp>
+            <pb n="2" facs="tcp:62332:2"/>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>But, How ſhall I deal with the reſt? There are enough ſtill to <hi>Swear</hi> you and me, and <hi>Twenty</hi> more out of our <hi>Lives</hi> and <hi>Fortunes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Faith they are ſuch a <hi>Factious</hi> ſort of <hi>Accuſing</hi> Fellows, that my <hi>Horſe</hi> is e'ne afraid to keep them Company,</p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>Poor Horſe! Have they any <hi>Deſign</hi> or <hi>Plot</hi> againſt him?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I can't tell what Plot they may have: But I am ſure he dreads them in his Heart: For what does my <hi>Horſe</hi> or <hi>I</hi> know; but they may Swear he's an <hi>Elephant,</hi> and without an <hi>Act of <hi>Parliament,</hi>
+                  </hi> lay more on his <hi>Back</hi> than he is able to bear.</p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>Troth you ſpeak very Conſiderately: For, Did they not ſerve me as unlikely a <hi>Trick,</hi> when I was <hi>Maſter of the Ship Tavern,</hi> or <hi>Admi<g ref="char:EOLhyphen"/>ral</hi> (as a Man may ſay) of the <hi>Ship,</hi> and Liv'd in good Repute with my <hi>Land-Lord</hi> and <hi>Neighbours?</hi> Did they not come in, and Elbow me out, and ſwear directly, that my <hi>French-Wine</hi> bred <hi>French-Blood</hi> in all our <hi>Engliſh-Men,</hi> and Poiſoned half the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Nay, they drive the ſame way ſtill, and have almoſt <hi>Swore</hi> you out of another <hi>Houſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>Which Prithee?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>The Houſe next the—the—</p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>To the <hi>What</hi> for <hi>God-Sake.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Next Door to the <hi>Scepter and Crown.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>The Devil they have! What, my <hi>Birth-Right?</hi> Can they Act ſo far from <hi>Law?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Oh! They are <hi>Conſciencious Blades,</hi> and Act according to <hi>Goſ<g ref="char:EOLhyphen"/>pel,</hi> and that you know is far diſtant enough from <hi>Law</hi> in all their <hi>Bibles:</hi> But they have not quite caſt you yet, which you may thank your <hi>Honeſt Iudge</hi> for, that pack't the <hi>Iury</hi> to Chew the Cud.</p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>But were all the <hi>Iury-men</hi> of the ſame Laſt, as the <hi>Evidence</hi> were of?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Ay, I believe had they been <hi>Five Hundred more,</hi> they would have laid Head to Head, and Rump to Rump, to have outed you of All: had not the <hi>Iudge</hi> diſperſed thoſe <hi>Foxes</hi> with <hi>Fire-Brands</hi> in their <hi>Tails,</hi> and left their deſign in the lurch.</p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>Prethee tell me how they look't at the <hi>Iudge,</hi> did they not Brow<g ref="char:EOLhyphen"/>beat him, when they found He would not come to their Cue?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Ay, as my Lord <hi>Ser:</hi>—did your Doctor: And thy ſnarl'd at him ſo, that had the <hi>Iudge</hi> not <hi>Whipt</hi> them away, I believe in my Conſcience, they would have gone near to have bit his <hi>Lordſhip's Shins.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>'Tis well the <hi>Iudge</hi> held the <hi>Whip</hi> in his <hi>Hand,</hi> when he called the <hi>Currs</hi> about him, For who can tell what Extravagances they might have been at, when they were ſo <hi>hot</hi> upon the <hi>Royal Srent,</hi> and purſued ſo hard af<g ref="char:EOLhyphen"/>ter the <hi>Royal Game?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Well, had the <hi>Iudge</hi> been your <hi>Own Brother,</hi> He could have Acted no better for you than he did: and I hold you ever obliged to ſay, <hi>Amen to Faxit Deus ut Vivat.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Y.</speaker>
+               <p>
+                  <hi>Amen, Amen.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>W. Baily;</hi> and are ſold by the Hawkers of <hi>LONDON,</hi> 1681.</p>
+            <pb facs="tcp:62332:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
